@@ -1,6 +1,6 @@
 ## Welcome!
 
-- 🍻💻 I’m currently working on AmbevTech
+- 🍻💻 I’m currently working on Grupo Boticário
 
  <div>
   <a href="https://github.com/douglasronchi">
